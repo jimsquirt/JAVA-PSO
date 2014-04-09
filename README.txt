@@ -7,6 +7,11 @@ ParticleSwarmOptimization.java - class which implements the PSO algorithm for N-
 Writer.java - class which holds a string list to be written in a log file.
 TesterPSO.java - class which runs the tests and invokes the creation of the log file. 
 
+How to use:
+
+Install JAVA JDK.
+Compile and run TesterPSO.java along with its required classes in your preferred editor.
+
 Sample log file:
 
 PSO-N4-4.0-1000.txt
